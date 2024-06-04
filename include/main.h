@@ -1,7 +1,7 @@
 #define EEPROM_SIZE 1024
 
 String ProjectName = "";
-String MainVersion = "2024-05-07.01";
+String MainVersion = "2024-06-04.01";
 String SerialNumber = "";
 
 uint64_t ServerHandleClientTimer = 0;
